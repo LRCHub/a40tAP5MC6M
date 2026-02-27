@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Reminder",
+  "base_artist": "The Weeknd",
+  "createdAt": "2026-02-27T19:01:45.848006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Reminder",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_A_Reminder_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Reminder",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/02_A_Reminder_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Reminder",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_A_Reminder_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reminder",
+      "artist": "Moderat",
+      "has_synced": true,
+      "path": "select/04_Reminder_Moderat.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reminder",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/05_Reminder_Travis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cruel Reminder",
+      "artist": "Heatmiser",
+      "has_synced": true,
+      "path": "select/06_Cruel_Reminder_Heatmiser.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Reminder",
+      "artist": "The Perishers",
+      "has_synced": false,
+      "path": "select/07_A_Reminder_The_Perishers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hide Ya Face Reminder Version",
+      "artist": "Prefuse 73",
+      "has_synced": false,
+      "path": "select/08_Hide_Ya_Face_Reminder_Version_Prefuse_73.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reminder",
+      "artist": "JAY Z",
+      "has_synced": true,
+      "path": "select/09_Reminder_JAY_Z.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Little Reminder That I'll Never Forget",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/10_A_Little_Reminder_That_I'll_Never_Forget_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Friendly Reminder",
+      "artist": "Against The Current",
+      "has_synced": false,
+      "path": "select/11_Friendly_Reminder_Against_The_Current.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Reminder",
+      "artist": "RL Grime feat. How To Dress Well",
+      "has_synced": true,
+      "path": "select/12_Reminder_RL_Grime_feat._How_To_Dress_Well.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Reminder (feat. How To Dress Well)",
+      "artist": "RL Grime",
+      "has_synced": true,
+      "path": "select/13_Reminder_(feat._How_To_Dress_Well)_RL_Grime.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Reminder (Jonah Baseball Remix)",
+      "artist": "RL Grime feat. How To Dress Well",
+      "has_synced": false,
+      "path": "select/14_Reminder_(Jonah_Baseball_Remix)_RL_Grime_feat._How_To_Dress_Well.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Reminder (feat. How To Dress Well) (Jonah Baseball Remix)",
+      "artist": "RL Grime",
+      "has_synced": false,
+      "path": "select/15_Reminder_(feat._How_To_Dress_Well)_(Jonah_Baseball_Remix)_RL_Grime.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Reminder",
+      "artist": "The Weeknd",
+      "has_synced": false,
+      "path": "select/pl_01_Reminder_The_Weeknd.txt"
+    }
+  ]
+}
